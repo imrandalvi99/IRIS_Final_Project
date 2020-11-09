@@ -6,4 +6,4 @@ An independent final project following the culmination of an introductory seismo
 
 ## License & copyright
 
-Imran Dalvi
+© Imran Dalvi
